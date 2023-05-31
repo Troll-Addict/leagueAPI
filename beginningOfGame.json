@@ -1,0 +1,271 @@
+{
+        "activePlayer": {
+                "abilities": {
+                        "E": {
+                                "abilityLevel": 0,
+                                "displayName": "Umbral Dash",
+                                "id": "AatroxE",
+                                "rawDescription": "GeneratedTip_Spell_AatroxE_Description",        
+                                "rawDisplayName": "GeneratedTip_Spell_AatroxE_DisplayName"
+                        },
+                        "Passive": {
+                                "displayName": "Deathbringer Stance",
+                                "id": "AatroxPassive",
+                                "rawDescription": "GeneratedTip_Passive_AatroxPassive_Description",
+                                "rawDisplayName": "GeneratedTip_Passive_AatroxPassive_DisplayName" 
+                        },
+                        "Q": {
+                                "abilityLevel": 0,
+                                "displayName": "The Darkin Blade",
+                                "id": "AatroxQ",
+                                "rawDescription": "GeneratedTip_Spell_AatroxQ_Description",        
+                                "rawDisplayName": "GeneratedTip_Spell_AatroxQ_DisplayName"
+                        },
+                        "R": {
+                                "abilityLevel": 0,
+                                "displayName": "World Ender",
+                                "id": "AatroxR",
+                                "rawDescription": "GeneratedTip_Spell_AatroxR_Description",        
+                                "rawDisplayName": "GeneratedTip_Spell_AatroxR_DisplayName"
+                        },
+                        "W": {
+                                "abilityLevel": 0,
+                                "displayName": "Infernal Chains",
+                                "id": "AatroxW",
+                                "rawDescription": "GeneratedTip_Spell_AatroxW_Description",        
+                                "rawDisplayName": "GeneratedTip_Spell_AatroxW_DisplayName"
+                        }
+                },
+                "championStats": {
+                        "abilityHaste": 0.0,
+                        "abilityPower": 0.0,
+                        "armor": 44.0,
+                        "armorPenetrationFlat": 0.0,
+                        "armorPenetrationPercent": 1.0,
+                        "attackDamage": 65.4000015258789,
+                        "attackRange": 225.0,
+                        "attackSpeed": 0.7356300354003906,
+                        "bonusArmorPenetrationPercent": 1.0,
+                        "bonusMagicPenetrationPercent": 1.0,
+                        "critChance": 0.0,
+                        "critDamage": 175.0,
+                        "currentHealth": 650.0,
+                        "healShieldPower": 0.0,
+                        "healthRegenRate": 0.6000000238418579,
+                        "lifeSteal": 0.0,
+                        "magicLethality": 0.0,
+                        "magicPenetrationFlat": 0.0,
+                        "magicPenetrationPercent": 1.0,
+                        "magicResist": 32.0,
+                        "maxHealth": 650.0,
+                        "moveSpeed": 345.0,
+                        "omnivamp": 0.0,
+                        "physicalLethality": 0.0,
+                        "physicalVamp": 0.0,
+                        "resourceMax": 0.0,
+                        "resourceRegenRate": 0.0,
+                        "resourceType": "BLOODWELL",
+                        "resourceValue": 0.0,
+                        "spellVamp": 0.0,
+                        "tenacity": 0.0
+                },
+                "currentGold": 500.0,
+                "fullRunes": {
+                        "generalRunes": [
+                                {
+                                        "displayName": "Fleet Footwork",
+                                        "id": 8021,
+                                        "rawDescription": "perk_tooltip_FleetFootwork",
+                                        "rawDisplayName": "perk_displayname_FleetFootwork"
+                                },
+                                {
+                                        "displayName": "Overheal",
+                                        "id": 9101,
+                                        "rawDescription": "perk_tooltip_9101",
+                                        "rawDisplayName": "perk_displayname_9101"
+                                },
+                                {
+                                        "displayName": "Legend: Alacrity",
+                                        "id": 9104,
+                                        "rawDescription": "perk_tooltip_9104",
+                                        "rawDisplayName": "perk_displayname_9104"
+                                },
+                                {
+                                        "displayName": "Coup de Grace",
+                                        "id": 8014,
+                                        "rawDescription": "perk_tooltip_CoupDeGrace",
+                                        "rawDisplayName": "perk_displayname_CoupDeGrace"
+                                },
+                                {
+                                        "displayName": "Eyeball Collection",
+                                        "id": 8138,
+                                        "rawDescription": "perk_tooltip_EyeballCollection",
+                                        "rawDisplayName": "perk_displayname_EyeballCollection"
+                                },
+                                {
+                                        "displayName": "Treasure Hunter",
+                                        "id": 8135,
+                                        "rawDescription": "perk_tooltip_TreasureHunter",
+                                        "rawDisplayName": "perk_displayname_TreasureHunter"
+                                }
+                        ],
+                        "keystone": {
+                                "displayName": "Fleet Footwork",
+                                "id": 8021,
+                                "rawDescription": "perk_tooltip_FleetFootwork",
+                                "rawDisplayName": "perk_displayname_FleetFootwork"
+                        },
+                        "primaryRuneTree": {
+                                "displayName": "Precision",
+                                "id": 8000,
+                                "rawDescription": "perkstyle_tooltip_7201",
+                                "rawDisplayName": "perkstyle_displayname_7201"
+                        },
+                        "secondaryRuneTree": {
+                                "displayName": "Domination",
+                                "id": 8100,
+                                "rawDescription": "perkstyle_tooltip_7200",
+                                "rawDisplayName": "perkstyle_displayname_7200"
+                        },
+                        "statRunes": [
+                                {
+                                        "id": 5005,
+                                        "rawDescription": "perk_tooltip_StatModAttackSpeed"
+                                },
+                                {
+                                        "id": 5008,
+                                        "rawDescription": "perk_tooltip_StatModAdaptive"
+                                },
+                                {
+                                        "id": 5002,
+                                        "rawDescription": "perk_tooltip_StatModArmor"
+                                }
+                        ]
+                },
+                "level": 1,
+                "summonerName": "TrollPractice",
+                "teamRelativeColors": true
+        },
+        "allPlayers": [
+                {
+                        "championName": "Aatrox",
+                        "isBot": false,
+                        "isDead": false,
+                        "items": [],
+                        "level": 1,
+                        "position": "",
+                        "rawChampionName": "game_character_displayname_Aatrox",
+                        "respawnTimer": 0.0,
+                        "runes": {
+                                "keystone": {
+                                        "displayName": "Fleet Footwork",
+                                        "id": 8021,
+                                        "rawDescription": "perk_tooltip_FleetFootwork",
+                                        "rawDisplayName": "perk_displayname_FleetFootwork"
+                                },
+                                "primaryRuneTree": {
+                                        "displayName": "Precision",
+                                        "id": 8000,
+                                        "rawDescription": "perkstyle_tooltip_7201",
+                                        "rawDisplayName": "perkstyle_displayname_7201"
+                                },
+                                "secondaryRuneTree": {
+                                        "displayName": "Domination",
+                                        "id": 8100,
+                                        "rawDescription": "perkstyle_tooltip_7200",
+                                        "rawDisplayName": "perkstyle_displayname_7200"
+                                }
+                        },
+                        "scores": {
+                                "assists": 0,
+                                "creepScore": 0,
+                                "deaths": 0,
+                                "kills": 0,
+                                "wardScore": 0.0
+                        },
+                        "skinID": 0,
+                        "summonerName": "TrollPractice",
+                        "summonerSpells": {
+                                "summonerSpellOne": {
+                                        "displayName": "Smite",
+                                        "rawDescription": "GeneratedTip_SummonerSpell_SummonerSmite_Description",
+                                        "rawDisplayName": "GeneratedTip_SummonerSpell_SummonerSmite_DisplayName"
+                                },
+                                "summonerSpellTwo": {
+                                        "displayName": "Flash",
+                                        "rawDescription": "GeneratedTip_SummonerSpell_SummonerFlash_Description",
+                                        "rawDisplayName": "GeneratedTip_SummonerSpell_SummonerFlash_DisplayName"
+                                }
+                        },
+                        "team": "ORDER"
+                },
+                {
+                        "championName": "Lucian",
+                        "isBot": true,
+                        "isDead": false,
+                        "items": [],
+                        "level": 1,
+                        "position": "",
+                        "rawChampionName": "game_character_displayname_Lucian",
+                        "respawnTimer": 0.0,
+                        "runes": {
+                                "keystone": {
+                                        "displayName": "Press the Attack",
+                                        "id": 8005,
+                                        "rawDescription": "perk_tooltip_PressTheAttack",
+                                        "rawDisplayName": "perk_displayname_PressTheAttack"
+                                },
+                                "primaryRuneTree": {
+                                        "displayName": "Precision",
+                                        "id": 8000,
+                                        "rawDescription": "perkstyle_tooltip_7201",
+                                        "rawDisplayName": "perkstyle_displayname_7201"
+                                },
+                                "secondaryRuneTree": {
+                                        "displayName": "Sorcery",
+                                        "id": 8200,
+                                        "rawDescription": "perkstyle_tooltip_7202",
+                                        "rawDisplayName": "perkstyle_displayname_7202"
+                                }
+                        },
+                        "scores": {
+                                "assists": 0,
+                                "creepScore": 0,
+                                "deaths": 0,
+                                "kills": 0,
+                                "wardScore": 0.0
+                        },
+                        "skinID": 0,
+                        "summonerName": "Lucian Bot",
+                        "summonerSpells": {
+                                "summonerSpellOne": {
+                                        "displayName": "Ignite",
+                                        "rawDescription": "GeneratedTip_SummonerSpell_SummonerDot_Description",
+                                        "rawDisplayName": "GeneratedTip_SummonerSpell_SummonerDot_DisplayName"
+                                },
+                                "summonerSpellTwo": {
+                                        "displayName": "Exhaust",
+                                        "rawDescription": "GeneratedTip_SummonerSpell_SummonerExhaust_Description",
+                                        "rawDisplayName": "GeneratedTip_SummonerSpell_SummonerExhaust_DisplayName"
+                                }
+                        },
+                        "team": "CHAOS"
+                }
+        ],
+        "events": {
+                "Events": [
+                        {
+                                "EventID": 0,
+                                "EventName": "GameStart",
+                                "EventTime": 0.01889589987695217
+                        }
+                ]
+        },
+        "gameData": {
+                "gameMode": "PRACTICETOOL",
+                "gameTime": 24.995290756225587,
+                "mapName": "Map11",
+                "mapNumber": 11,
+                "mapTerrain": "Default"
+        }
+}
